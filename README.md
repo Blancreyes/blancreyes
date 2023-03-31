@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Luis
 
-**Blancreyes/blancreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Currently looking for my first job as a Jr. Full Stack Developer.
 
 I am really excited for succesfully completing my bootcamp with 4Gekks Academy, and is the time to put all that knowledge into work, and of course, continue this learning process.

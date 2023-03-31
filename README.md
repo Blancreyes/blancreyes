@@ -7,5 +7,8 @@ I am really excited for succesfully completing my bootcamp with 4Gekks Academy, 
 My main programming languages/platform are: REACT / JS / HTML / CSS / Bootstrap / Python / SQL
 
 - 🌱 I’m currently learning AngularJS
-- 📫 How to reach me: luijbr83@gmail.com
+
+### How to reach me 📫
+-  luijbr83@gmail.com
+-  [/in/luisblancoreyes](https://www.linkedin.com/in/luisblancoreyes)
 
